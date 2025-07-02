@@ -1,0 +1,1001 @@
+Valor,Hora do Dia,Tipo de Transferência,Dispositivo,Localização,Fraude
+1098,Madrugada,PIX,PC,São Paulo,0
+2969,Noite,PIX,Android,São Paulo,0
+11430,Noite,Transferência,Android,Lisboa,0
+144,Tarde,PIX,iPhone,Rio de Janeiro,0
+2761,Madrugada,Transferência,PC,Rio de Janeiro,0
+726,Madrugada,PIX,PC,Lisboa,1
+16,Noite,Boleto,iPhone,São Paulo,0
+2910,Madrugada,PIX,PC,Belo Horizonte,0
+412,Tarde,Crédito,Android,Rio de Janeiro,0
+54,Madrugada,Débito,Android,São Paulo,0
+209,Manhã,Débito,iPhone,Belo Horizonte,0
+2835,Tarde,Crédito,Android,Belo Horizonte,0
+978,Tarde,Débito,PC,Miami,0
+4469,Madrugada,PIX,Android,São Paulo,0
+2190,Noite,Crédito,Android,?,0
+863,Madrugada,Débito,PC,São Paulo,0
+712,Noite,Débito,iPhone,Rio de Janeiro,0
+810,Tarde,PIX,Android,São Paulo,0
+5382,Tarde,PIX,Android,Rio de Janeiro,0
+1743,Noite,Transferência,Android,São Paulo,0
+46,Tarde,Boleto,Android,Belo Horizonte,0
+1031,Noite,Débito,PC,Rio de Janeiro,0
+8122,Tarde,PIX,Android,Rio de Janeiro,0
+12870,Tarde,Transferência,iPhone,São Paulo,0
+319,Manhã,PIX,iPhone,São Paulo,0
+1581,Manhã,Débito,Android,Belo Horizonte,0
+2498,Noite,PIX,iPhone,Belo Horizonte,0
+2137,Tarde,PIX,iPhone,São Paulo,0
+2955,Madrugada,PIX,iPhone,Lisboa,0
+654,Noite,PIX,Android,Miami,0
+2018,Manhã,PIX,Caixa Eletrônico,Miami,0
+912,Tarde,Débito,Android,São Paulo,0
+2413,Tarde,Débito,Android,São Paulo,0
+1947,Tarde,Transferência,Android,São Paulo,0
+1129,Madrugada,Débito,iPhone,Belo Horizonte,0
+444,Manhã,PIX,Android,Lisboa,0
+8818,Tarde,Crédito,Android,São Paulo,0
+2140,Noite,Boleto,Android,São Paulo,0
+2140,Noite,PIX,Android,Rio de Janeiro,0
+403,Madrugada,PIX,Caixa Eletrônico,São Paulo,0
+1028,Noite,Débito,PC,São Paulo,0
+1547,Noite,Débito,iPhone,Miami,0
+4839,Manhã,Débito,Android,São Paulo,0
+2633,Manhã,PIX,Caixa Eletrônico,Belo Horizonte,0
+1094,Tarde,Transferência,iPhone,São Paulo,0
+2398,Tarde,PIX,Android,São Paulo,0
+2038,Madrugada,PIX,PC,São Paulo,0
+7442,Noite,PIX,Android,Rio de Janeiro,0
+12,Manhã,PIX,PC,Miami,0
+1328,Madrugada,Transferência,Android,São Paulo,0
+762,Madrugada,Crédito,iPhone,Rio de Janeiro,0
+294,Tarde,Débito,PC,São Paulo,0
+11938,Manhã,Crédito,iPhone,Rio de Janeiro,0
+1250,Tarde,PIX,iPhone,São Paulo,0
+1456,Tarde,PIX,Android,Rio de Janeiro,0
+574,Tarde,Transferência,iPhone,Rio de Janeiro,0
+2171,Noite,Crédito,iPhone,São Paulo,0
+202,Tarde,Débito,iPhone,Nova York,0
+276,Manhã,Boleto,Android,Miami,0
+2805,Tarde,Transferência,Caixa Eletrônico,São Paulo,0
+2829,Tarde,PIX,Caixa Eletrônico,Belo Horizonte,0
+844,Madrugada,PIX,Android,São Paulo,0
+1546,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+1097,Manhã,Crédito,Android,São Paulo,0
+821,Noite,PIX,Android,Nova York,0
+3845,Noite,Débito,iPhone,Rio de Janeiro,0
+2099,Noite,Transferência,PC,São Paulo,0
+366,Noite,Crédito,Android,Rio de Janeiro,0
+280,Tarde,PIX,PC,Belo Horizonte,0
+2496,Manhã,Débito,iPhone,São Paulo,0
+2043,Noite,PIX,Android,Rio de Janeiro,0
+2891,Tarde,Crédito,iPhone,São Paulo,0
+148,Noite,PIX,iPhone,São Paulo,0
+1321,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+13940,Noite,PIX,Android,São Paulo,0
+1686,Manhã,PIX,iPhone,Rio de Janeiro,0
+1882,Manhã,PIX,iPhone,São Paulo,0
+1128,Manhã,PIX,iPhone,São Paulo,0
+1778,Madrugada,Débito,Android,São Paulo,0
+445,Tarde,PIX,Android,São Paulo,0
+2568,Tarde,Crédito,iPhone,São Paulo,0
+2724,Manhã,Boleto,PC,São Paulo,0
+8474,Noite,PIX,PC,Belo Horizonte,0
+25,Noite,PIX,PC,São Paulo,0
+1365,Manhã,Débito,Caixa Eletrônico,São Paulo,0
+466,Manhã,PIX,iPhone,São Paulo,0
+2091,Tarde,PIX,Android,Belo Horizonte,0
+1554,Manhã,PIX,PC,Belo Horizonte,0
+14012,Tarde,PIX,iPhone,Belo Horizonte,0
+1334,Madrugada,PIX,PC,São Paulo,0
+2750,Tarde,PIX,iPhone,São Paulo,0
+2845,Tarde,PIX,Android,São Paulo,0
+5284,Noite,Débito,iPhone,Belo Horizonte,0
+2566,Manhã,PIX,Android,Miami,0
+11642,Manhã,Transferência,iPhone,São Paulo,0
+2019,Manhã,PIX,PC,São Paulo,0
+1652,Tarde,Transferência,Android,São Paulo,0
+573,Manhã,Transferência,Android,São Paulo,0
+1473,Noite,PIX,iPhone,Miami,0
+819,Noite,Débito,Caixa Eletrônico,Belo Horizonte,0
+1151,Noite,PIX,PC,Rio de Janeiro,0
+13635,Manhã,Débito,Android,Belo Horizonte,0
+2577,Manhã,Crédito,Android,São Paulo,0
+5715,Tarde,Boleto,PC,São Paulo,0
+2397,Noite,PIX,Android,Nova York,0
+8980,Noite,PIX,iPhone,Belo Horizonte,0
+454,Manhã,Crédito,iPhone,Belo Horizonte,0
+2235,Tarde,PIX,iPhone,São Paulo,0
+2038,Madrugada,Crédito,Caixa Eletrônico,São Paulo,0
+1532,Madrugada,PIX,iPhone,Belo Horizonte,0
+10977,Manhã,PIX,iPhone,São Paulo,0
+6168,Tarde,PIX,iPhone,Rio de Janeiro,0
+2802,Madrugada,PIX,iPhone,Rio de Janeiro,0
+649,Tarde,PIX,iPhone,Miami,0
+1848,Manhã,Transferência,Android,São Paulo,0
+1138,Noite,PIX,iPhone,Rio de Janeiro,0
+10937,Tarde,PIX,Android,Rio de Janeiro,0
+790,Noite,PIX,Android,Belo Horizonte,0
+1067,Madrugada,Débito,Caixa Eletrônico,Belo Horizonte,0
+13162,Tarde,PIX,PC,Rio de Janeiro,0
+2076,Tarde,PIX,Android,Rio de Janeiro,0
+2157,Tarde,Crédito,PC,São Paulo,0
+2530,Manhã,Débito,iPhone,São Paulo,0
+2882,Noite,PIX,Android,São Paulo,0
+470,Madrugada,Débito,Caixa Eletrônico,São Paulo,0
+1465,Manhã,PIX,PC,São Paulo,0
+595,Tarde,PIX,Android,São Paulo,0
+2142,Tarde,Débito,Android,São Paulo,0
+1327,Madrugada,Débito,iPhone,Rio de Janeiro,0
+3582,Tarde,Crédito,PC,São Paulo,0
+2602,Madrugada,Boleto,Android,São Paulo,0
+2093,Manhã,Crédito,PC,São Paulo,0
+6136,Tarde,Débito,PC,São Paulo,0
+1072,Noite,PIX,iPhone,São Paulo,0
+561,Noite,PIX,PC,São Paulo,0
+2011,Tarde,Transferência,PC,Belo Horizonte,0
+313,Noite,Boleto,Caixa Eletrônico,São Paulo,0
+69,Manhã,PIX,Android,São Paulo,0
+2562,Manhã,Boleto,Caixa Eletrônico,São Paulo,0
+4223,Tarde,PIX,PC,Rio de Janeiro,0
+2908,Tarde,Boleto,Android,São Paulo,0
+730,Noite,Débito,iPhone,São Paulo,0
+1852,Noite,PIX,iPhone,São Paulo,0
+6229,Manhã,Débito,iPhone,Belo Horizonte,0
+3993,Manhã,PIX,PC,Rio de Janeiro,0
+1803,Tarde,PIX,iPhone,São Paulo,0
+2642,Manhã,Débito,Android,Rio de Janeiro,0
+10033,Madrugada,Crédito,Android,Nova York,1
+1310,Tarde,PIX,Caixa Eletrônico,Rio de Janeiro,0
+2279,Manhã,PIX,Android,São Paulo,0
+1265,Madrugada,Boleto,Caixa Eletrônico,Miami,1
+1214,Noite,Débito,Caixa Eletrônico,São Paulo,0
+9322,Manhã,Boleto,Caixa Eletrônico,Miami,0
+2560,Noite,Boleto,Android,São Paulo,0
+1327,Tarde,Transferência,Android,Rio de Janeiro,0
+116,Manhã,Débito,Android,São Paulo,0
+2580,Madrugada,Crédito,Android,Belo Horizonte,0
+646,Tarde,Débito,Android,São Paulo,0
+325,Madrugada,PIX,Android,Lisboa,0
+159,Tarde,Transferência,Android,Rio de Janeiro,0
+51,Manhã,PIX,iPhone,Rio de Janeiro,0
+5032,Tarde,Boleto,PC,Rio de Janeiro,0
+137,Manhã,Débito,iPhone,Rio de Janeiro,0
+1565,Noite,Débito,iPhone,São Paulo,0
+7463,Tarde,PIX,PC,Rio de Janeiro,0
+2125,Noite,Transferência,iPhone,Miami,0
+2573,Tarde,PIX,Android,São Paulo,0
+2807,Noite,PIX,PC,Miami,0
+5379,Manhã,Boleto,Caixa Eletrônico,Lisboa,0
+2811,Tarde,Crédito,PC,São Paulo,0
+2651,Manhã,Débito,iPhone,Rio de Janeiro,0
+1229,Tarde,PIX,iPhone,Belo Horizonte,0
+37,Manhã,PIX,Android,Rio de Janeiro,0
+1963,Noite,Crédito,iPhone,Rio de Janeiro,0
+2060,Noite,Débito,PC,São Paulo,0
+2627,Noite,Crédito,Android,Belo Horizonte,0
+1511,Tarde,PIX,Caixa Eletrônico,?,0
+1261,Manhã,Boleto,iPhone,Belo Horizonte,0
+13943,Manhã,PIX,Android,?,0
+882,Manhã,Boleto,PC,Nova York,0
+2722,Noite,PIX,PC,São Paulo,0
+2788,Madrugada,Crédito,Android,São Paulo,0
+938,Noite,PIX,Android,São Paulo,0
+554,Tarde,PIX,Android,São Paulo,0
+2223,Tarde,Transferência,iPhone,Rio de Janeiro,0
+133,Noite,Débito,iPhone,Belo Horizonte,0
+713,Tarde,PIX,iPhone,Belo Horizonte,0
+2458,Tarde,Débito,Android,São Paulo,0
+14996,Tarde,Boleto,Android,Belo Horizonte,0
+227,Tarde,PIX,Android,Rio de Janeiro,0
+1314,Manhã,PIX,iPhone,São Paulo,0
+396,Noite,PIX,iPhone,Rio de Janeiro,0
+3966,Manhã,Transferência,Android,Rio de Janeiro,0
+2045,Tarde,Débito,Android,São Paulo,0
+186,Tarde,PIX,PC,Rio de Janeiro,0
+702,Madrugada,PIX,iPhone,São Paulo,0
+2087,Noite,Crédito,iPhone,São Paulo,0
+956,Noite,Boleto,PC,São Paulo,0
+14834,Tarde,PIX,Android,Belo Horizonte,0
+2129,Manhã,Crédito,Android,São Paulo,0
+356,Noite,PIX,PC,Miami,0
+2763,Tarde,PIX,PC,São Paulo,0
+1541,Manhã,PIX,iPhone,São Paulo,0
+2329,Manhã,Boleto,Android,Rio de Janeiro,0
+844,Noite,PIX,iPhone,São Paulo,0
+353,Manhã,Boleto,PC,Rio de Janeiro,0
+2701,Tarde,PIX,PC,São Paulo,0
+4093,Noite,PIX,iPhone,São Paulo,0
+1837,Manhã,Débito,PC,São Paulo,0
+1906,Manhã,Transferência,PC,Rio de Janeiro,0
+455,Noite,Débito,iPhone,Rio de Janeiro,0
+547,Manhã,PIX,Caixa Eletrônico,Rio de Janeiro,0
+2630,Manhã,PIX,Android,São Paulo,0
+6816,Noite,Crédito,iPhone,Rio de Janeiro,0
+3556,Manhã,Crédito,PC,São Paulo,0
+949,Tarde,Crédito,Android,Miami,0
+10276,Noite,Débito,iPhone,São Paulo,0
+344,Noite,PIX,iPhone,Miami,0
+2045,Tarde,Crédito,PC,Rio de Janeiro,0
+1342,Noite,Boleto,iPhone,Rio de Janeiro,0
+2474,Manhã,Débito,PC,São Paulo,0
+2374,Manhã,Crédito,PC,Miami,0
+1392,Tarde,Boleto,PC,São Paulo,0
+2769,Manhã,Crédito,Android,?,0
+1173,Tarde,Transferência,iPhone,Nova York,0
+1109,Manhã,Transferência,PC,São Paulo,0
+1947,Tarde,Crédito,Android,Nova York,0
+1670,Noite,PIX,iPhone,Rio de Janeiro,0
+2474,Manhã,Débito,Android,Belo Horizonte,0
+510,Tarde,PIX,PC,São Paulo,0
+8610,Noite,Débito,Android,São Paulo,0
+2104,Manhã,PIX,iPhone,São Paulo,0
+687,Noite,Débito,PC,São Paulo,0
+1510,Tarde,Transferência,PC,São Paulo,0
+2359,Tarde,PIX,Android,São Paulo,0
+1678,Manhã,Débito,iPhone,São Paulo,0
+9431,Manhã,PIX,Android,São Paulo,0
+817,Tarde,PIX,iPhone,São Paulo,0
+1336,Manhã,Crédito,Android,?,0
+14510,Noite,PIX,iPhone,São Paulo,0
+1913,Noite,PIX,iPhone,Rio de Janeiro,0
+2754,Tarde,Débito,Android,Rio de Janeiro,0
+902,Tarde,Crédito,PC,São Paulo,0
+1364,Manhã,Crédito,Android,Belo Horizonte,0
+6357,Madrugada,PIX,Android,São Paulo,0
+9050,Manhã,PIX,PC,São Paulo,0
+2588,Manhã,Crédito,iPhone,São Paulo,0
+197,Madrugada,PIX,iPhone,Rio de Janeiro,0
+7075,Tarde,Boleto,iPhone,Lisboa,0
+569,Tarde,PIX,iPhone,Miami,0
+899,Noite,Crédito,Android,Nova York,0
+8770,Tarde,Boleto,Caixa Eletrônico,São Paulo,0
+775,Tarde,PIX,Android,São Paulo,0
+2216,Tarde,Transferência,Android,São Paulo,0
+666,Tarde,PIX,Caixa Eletrônico,São Paulo,0
+2272,Madrugada,PIX,Android,São Paulo,0
+9752,Tarde,PIX,iPhone,São Paulo,0
+2639,Tarde,PIX,Android,São Paulo,0
+1149,Tarde,Boleto,Android,Miami,0
+2831,Manhã,Transferência,iPhone,Miami,0
+2671,Madrugada,Débito,Android,São Paulo,0
+2310,Manhã,Débito,iPhone,Miami,0
+6840,Manhã,PIX,Android,São Paulo,0
+8023,Manhã,PIX,PC,São Paulo,0
+65,Manhã,Crédito,Android,São Paulo,0
+624,Tarde,PIX,Caixa Eletrônico,São Paulo,0
+8648,Manhã,PIX,iPhone,Rio de Janeiro,0
+1416,Tarde,Débito,Android,Nova York,0
+974,Madrugada,Boleto,iPhone,São Paulo,0
+1190,Madrugada,PIX,Android,Belo Horizonte,0
+9933,Manhã,PIX,Android,Rio de Janeiro,0
+1240,Madrugada,Débito,PC,São Paulo,0
+2190,Manhã,Boleto,Android,Rio de Janeiro,0
+645,Madrugada,Boleto,Android,?,1
+2865,Madrugada,PIX,iPhone,São Paulo,0
+11054,Tarde,Débito,Android,São Paulo,0
+2814,Madrugada,Débito,iPhone,Rio de Janeiro,0
+1150,Manhã,Crédito,Android,São Paulo,0
+1040,Tarde,Débito,Android,São Paulo,0
+889,Tarde,Débito,Caixa Eletrônico,São Paulo,0
+1400,Noite,Transferência,iPhone,São Paulo,0
+11704,Tarde,Débito,Android,São Paulo,0
+514,Noite,PIX,PC,Lisboa,0
+343,Manhã,Crédito,iPhone,Belo Horizonte,0
+1308,Noite,Débito,Android,Rio de Janeiro,0
+603,Manhã,Crédito,Android,Belo Horizonte,0
+1972,Tarde,Débito,Android,São Paulo,0
+2794,Manhã,Transferência,Android,São Paulo,0
+1483,Tarde,Boleto,PC,Rio de Janeiro,0
+1108,Manhã,PIX,Android,Belo Horizonte,0
+2071,Tarde,Débito,PC,São Paulo,0
+11,Manhã,PIX,PC,Miami,0
+947,Tarde,Transferência,Android,São Paulo,0
+812,Manhã,PIX,iPhone,Nova York,0
+5947,Noite,Transferência,PC,São Paulo,0
+2971,Madrugada,Transferência,Android,Belo Horizonte,0
+430,Madrugada,PIX,Android,Belo Horizonte,0
+986,Tarde,PIX,Caixa Eletrônico,Miami,0
+2551,Noite,PIX,Caixa Eletrônico,Rio de Janeiro,0
+71,Tarde,Débito,Android,Belo Horizonte,0
+13625,Madrugada,Crédito,Android,São Paulo,0
+1189,Tarde,PIX,PC,Rio de Janeiro,0
+2925,Manhã,PIX,iPhone,São Paulo,0
+705,Tarde,PIX,Android,Nova York,0
+583,Manhã,PIX,PC,São Paulo,0
+538,Tarde,PIX,PC,Rio de Janeiro,0
+2226,Manhã,Transferência,Caixa Eletrônico,São Paulo,0
+1317,Tarde,Boleto,iPhone,São Paulo,0
+1019,Manhã,PIX,Android,São Paulo,0
+2166,Manhã,PIX,PC,São Paulo,0
+1601,Manhã,Débito,Android,Lisboa,0
+563,Noite,PIX,iPhone,São Paulo,0
+2676,Manhã,Débito,iPhone,Rio de Janeiro,0
+813,Tarde,PIX,Android,São Paulo,0
+2120,Manhã,Débito,Android,São Paulo,0
+2855,Noite,PIX,Caixa Eletrônico,São Paulo,0
+491,Manhã,Boleto,Android,São Paulo,0
+535,Manhã,PIX,PC,Lisboa,0
+13203,Tarde,Débito,Android,Miami,0
+2287,Manhã,Boleto,PC,Rio de Janeiro,0
+614,Tarde,PIX,iPhone,São Paulo,0
+1049,Tarde,PIX,Android,Lisboa,0
+2081,Noite,PIX,iPhone,São Paulo,0
+1216,Tarde,PIX,PC,Rio de Janeiro,0
+2547,Noite,Débito,iPhone,São Paulo,0
+323,Manhã,Crédito,Android,São Paulo,0
+429,Madrugada,PIX,Android,São Paulo,0
+2958,Madrugada,Boleto,iPhone,Belo Horizonte,0
+1111,Manhã,Débito,Android,São Paulo,0
+327,Manhã,PIX,Android,São Paulo,0
+4854,Madrugada,Boleto,Android,Miami,1
+2399,Noite,PIX,iPhone,Miami,0
+1571,Tarde,Transferência,iPhone,Rio de Janeiro,0
+1849,Tarde,Débito,Android,São Paulo,0
+1133,Tarde,Transferência,iPhone,Rio de Janeiro,0
+1125,Manhã,Boleto,iPhone,Rio de Janeiro,0
+2062,Manhã,Crédito,PC,São Paulo,0
+133,Manhã,PIX,iPhone,São Paulo,0
+957,Manhã,PIX,iPhone,Rio de Janeiro,0
+957,Manhã,Boleto,Android,Rio de Janeiro,0
+177,Tarde,Crédito,iPhone,Rio de Janeiro,0
+2331,Tarde,Crédito,Android,Rio de Janeiro,0
+1761,Madrugada,Transferência,iPhone,Belo Horizonte,0
+2622,Manhã,PIX,PC,Belo Horizonte,0
+2253,Madrugada,PIX,PC,São Paulo,0
+891,Tarde,PIX,Android,Rio de Janeiro,0
+1142,Manhã,PIX,Android,Rio de Janeiro,0
+823,Manhã,PIX,Android,Rio de Janeiro,0
+2768,Tarde,PIX,Caixa Eletrônico,Lisboa,0
+1393,Manhã,Débito,Android,Rio de Janeiro,0
+800,Noite,Débito,Android,São Paulo,0
+8533,Manhã,PIX,Android,São Paulo,0
+1927,Manhã,Débito,Caixa Eletrônico,São Paulo,0
+1730,Tarde,PIX,iPhone,Miami,0
+2764,Noite,PIX,Android,São Paulo,0
+368,Madrugada,Boleto,Android,Rio de Janeiro,0
+692,Manhã,PIX,Android,Belo Horizonte,0
+2982,Tarde,PIX,Android,Nova York,0
+2544,Noite,PIX,iPhone,Miami,0
+1828,Manhã,Crédito,Android,São Paulo,0
+2077,Tarde,Débito,Android,Nova York,0
+224,Madrugada,PIX,Caixa Eletrônico,Rio de Janeiro,0
+9536,Manhã,Boleto,Android,São Paulo,0
+1351,Manhã,PIX,Android,São Paulo,0
+1360,Manhã,Boleto,Android,São Paulo,0
+1880,Tarde,Crédito,Android,Nova York,0
+373,Tarde,PIX,PC,São Paulo,0
+756,Manhã,Crédito,Android,São Paulo,0
+576,Tarde,Transferência,PC,São Paulo,0
+1951,Noite,PIX,Android,São Paulo,0
+525,Tarde,PIX,iPhone,São Paulo,0
+1478,Noite,Boleto,PC,São Paulo,0
+738,Noite,PIX,iPhone,Rio de Janeiro,0
+2447,Madrugada,Transferência,Android,São Paulo,0
+1076,Tarde,Boleto,Android,São Paulo,0
+2042,Manhã,PIX,Android,Rio de Janeiro,0
+639,Manhã,PIX,Caixa Eletrônico,Rio de Janeiro,0
+14793,Tarde,Débito,PC,Belo Horizonte,0
+817,Noite,Transferência,Caixa Eletrônico,Rio de Janeiro,0
+284,Manhã,Débito,Android,Nova York,0
+2710,Tarde,Débito,Android,Rio de Janeiro,0
+97,Madrugada,Crédito,Android,São Paulo,0
+8781,Noite,PIX,Android,São Paulo,0
+14847,Noite,Boleto,iPhone,Lisboa,0
+864,Tarde,Débito,Android,Miami,0
+875,Noite,Transferência,PC,São Paulo,0
+1908,Noite,PIX,iPhone,Lisboa,0
+2710,Madrugada,Crédito,iPhone,São Paulo,0
+713,Tarde,Débito,Caixa Eletrônico,Rio de Janeiro,0
+1670,Noite,Crédito,Android,São Paulo,0
+1198,Madrugada,Débito,Caixa Eletrônico,São Paulo,0
+1312,Tarde,Crédito,iPhone,Belo Horizonte,0
+1164,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+13258,Tarde,Débito,Android,São Paulo,0
+2654,Tarde,PIX,iPhone,Belo Horizonte,0
+2901,Noite,PIX,Caixa Eletrônico,São Paulo,0
+451,Noite,PIX,Caixa Eletrônico,Rio de Janeiro,0
+13925,Manhã,PIX,iPhone,São Paulo,0
+2538,Tarde,Boleto,PC,São Paulo,0
+2111,Manhã,Débito,Android,Rio de Janeiro,0
+2094,Madrugada,PIX,PC,São Paulo,0
+2086,Tarde,Débito,Android,São Paulo,0
+2359,Manhã,PIX,Android,Rio de Janeiro,0
+4831,Manhã,PIX,Android,São Paulo,0
+1004,Manhã,Débito,iPhone,Miami,0
+1578,Madrugada,Crédito,Android,São Paulo,0
+7498,Manhã,Débito,iPhone,São Paulo,0
+2919,Tarde,PIX,Android,São Paulo,0
+705,Tarde,Débito,Android,Rio de Janeiro,0
+8694,Noite,PIX,PC,Rio de Janeiro,0
+124,Noite,Crédito,Android,São Paulo,0
+2191,Madrugada,Débito,iPhone,São Paulo,0
+901,Tarde,PIX,iPhone,Rio de Janeiro,0
+2014,Tarde,Crédito,PC,São Paulo,0
+680,Tarde,PIX,iPhone,Rio de Janeiro,0
+2677,Noite,Crédito,iPhone,São Paulo,0
+2449,Manhã,Débito,Caixa Eletrônico,São Paulo,0
+13667,Noite,Boleto,iPhone,Lisboa,0
+12,Tarde,Débito,Android,São Paulo,0
+1754,Manhã,Boleto,iPhone,Rio de Janeiro,0
+948,Noite,Crédito,iPhone,Miami,0
+2820,Manhã,PIX,Android,São Paulo,0
+1854,Madrugada,PIX,Android,Rio de Janeiro,0
+1961,Tarde,Débito,Android,São Paulo,0
+5867,Tarde,PIX,PC,São Paulo,0
+2216,Manhã,Transferência,PC,São Paulo,0
+10898,Tarde,PIX,Android,Lisboa,0
+1621,Noite,Boleto,iPhone,São Paulo,0
+1793,Noite,Débito,Caixa Eletrônico,São Paulo,0
+2223,Noite,Crédito,Caixa Eletrônico,Rio de Janeiro,0
+13907,Noite,Boleto,Caixa Eletrônico,Rio de Janeiro,0
+2078,Manhã,Crédito,iPhone,São Paulo,0
+453,Tarde,PIX,Android,São Paulo,0
+2730,Noite,PIX,Android,São Paulo,0
+2752,Manhã,PIX,Android,São Paulo,0
+702,Manhã,Débito,Android,Miami,0
+2161,Tarde,Crédito,PC,São Paulo,0
+1379,Tarde,Débito,PC,Belo Horizonte,0
+1686,Manhã,Crédito,Android,Rio de Janeiro,0
+124,Manhã,PIX,PC,Belo Horizonte,0
+1194,Tarde,Boleto,PC,São Paulo,0
+341,Madrugada,Boleto,iPhone,?,1
+2325,Tarde,Transferência,Android,São Paulo,0
+2814,Tarde,PIX,PC,São Paulo,0
+2481,Manhã,Boleto,Caixa Eletrônico,Nova York,0
+1303,Noite,Transferência,PC,São Paulo,0
+909,Madrugada,Débito,Android,São Paulo,0
+1934,Manhã,PIX,iPhone,Belo Horizonte,0
+673,Manhã,PIX,Android,Belo Horizonte,0
+3652,Noite,PIX,iPhone,Rio de Janeiro,0
+550,Madrugada,PIX,iPhone,Belo Horizonte,0
+2732,Manhã,PIX,iPhone,São Paulo,0
+1589,Manhã,Débito,iPhone,Belo Horizonte,0
+1136,Noite,Crédito,iPhone,Rio de Janeiro,0
+534,Noite,PIX,Android,São Paulo,0
+1662,Manhã,PIX,iPhone,Rio de Janeiro,0
+7977,Madrugada,Transferência,Android,Belo Horizonte,0
+116,Tarde,Crédito,Android,São Paulo,0
+2150,Tarde,PIX,Android,Rio de Janeiro,0
+1149,Manhã,PIX,Caixa Eletrônico,Miami,0
+9113,Noite,Transferência,Android,Rio de Janeiro,0
+3350,Madrugada,Boleto,iPhone,São Paulo,0
+2904,Manhã,PIX,iPhone,Rio de Janeiro,0
+2309,Tarde,Crédito,iPhone,São Paulo,0
+175,Madrugada,PIX,Caixa Eletrônico,São Paulo,0
+1213,Tarde,PIX,Android,São Paulo,0
+553,Manhã,PIX,iPhone,São Paulo,0
+2286,Manhã,Débito,iPhone,São Paulo,0
+1370,Tarde,PIX,iPhone,São Paulo,0
+2896,Manhã,PIX,Android,São Paulo,0
+2759,Tarde,Débito,Android,São Paulo,0
+1131,Madrugada,Transferência,PC,Belo Horizonte,0
+2852,Tarde,Débito,iPhone,?,0
+48,Tarde,Transferência,iPhone,São Paulo,0
+2921,Tarde,PIX,Caixa Eletrônico,Rio de Janeiro,0
+1320,Manhã,PIX,PC,São Paulo,0
+5893,Tarde,PIX,Android,Rio de Janeiro,0
+1218,Tarde,Débito,iPhone,São Paulo,0
+1899,Manhã,Crédito,Caixa Eletrônico,São Paulo,0
+590,Noite,Débito,iPhone,Rio de Janeiro,0
+607,Noite,PIX,Android,São Paulo,0
+849,Noite,Crédito,iPhone,Rio de Janeiro,0
+1814,Noite,Transferência,Android,Belo Horizonte,0
+1720,Tarde,Crédito,iPhone,Miami,0
+1857,Manhã,PIX,Android,?,0
+895,Manhã,Crédito,PC,São Paulo,0
+955,Noite,Crédito,PC,São Paulo,0
+2195,Tarde,Boleto,Android,Belo Horizonte,0
+1975,Tarde,Boleto,PC,Rio de Janeiro,0
+1397,Manhã,Crédito,PC,São Paulo,0
+396,Tarde,Boleto,Android,São Paulo,0
+1670,Manhã,Transferência,iPhone,Rio de Janeiro,0
+1768,Noite,Débito,Caixa Eletrônico,São Paulo,0
+5631,Manhã,Crédito,Android,São Paulo,0
+1474,Noite,Crédito,PC,Miami,0
+664,Madrugada,PIX,iPhone,Rio de Janeiro,0
+906,Noite,Débito,PC,São Paulo,0
+1693,Madrugada,Transferência,Android,São Paulo,0
+2657,Tarde,PIX,iPhone,Belo Horizonte,0
+2768,Madrugada,Transferência,iPhone,Belo Horizonte,0
+546,Madrugada,Transferência,iPhone,Belo Horizonte,0
+1656,Noite,Crédito,PC,Belo Horizonte,0
+2775,Tarde,PIX,Android,Miami,0
+746,Noite,Boleto,Android,São Paulo,0
+233,Manhã,PIX,iPhone,Miami,0
+13714,Manhã,Crédito,Android,São Paulo,0
+2569,Madrugada,Débito,Android,São Paulo,0
+472,Manhã,PIX,iPhone,São Paulo,0
+11390,Noite,Transferência,PC,São Paulo,0
+895,Manhã,Débito,iPhone,São Paulo,0
+1995,Tarde,PIX,PC,Miami,0
+1528,Tarde,Débito,PC,Belo Horizonte,0
+13138,Noite,Débito,PC,Lisboa,0
+4033,Noite,Débito,PC,São Paulo,0
+2710,Madrugada,Crédito,Android,São Paulo,0
+1568,Manhã,PIX,Android,São Paulo,0
+100,Madrugada,PIX,Android,São Paulo,0
+1667,Madrugada,Crédito,Android,São Paulo,0
+2753,Noite,PIX,Android,Miami,0
+2243,Manhã,PIX,Android,São Paulo,0
+4223,Tarde,Débito,iPhone,Rio de Janeiro,0
+2524,Noite,PIX,Android,São Paulo,0
+534,Noite,PIX,iPhone,Nova York,0
+2420,Madrugada,Transferência,iPhone,São Paulo,0
+195,Madrugada,Transferência,Android,São Paulo,0
+2438,Tarde,PIX,Android,Rio de Janeiro,0
+1203,Manhã,Crédito,PC,São Paulo,0
+2255,Tarde,PIX,Android,São Paulo,0
+1634,Madrugada,Transferência,iPhone,Rio de Janeiro,0
+1586,Manhã,PIX,Android,São Paulo,0
+10443,Noite,PIX,PC,Belo Horizonte,0
+595,Tarde,PIX,Caixa Eletrônico,São Paulo,0
+2200,Tarde,Boleto,Android,São Paulo,0
+520,Tarde,Débito,iPhone,Belo Horizonte,0
+1604,Manhã,PIX,PC,Rio de Janeiro,0
+2726,Tarde,Débito,PC,Nova York,0
+2545,Manhã,PIX,Android,São Paulo,0
+2896,Noite,Débito,Android,Miami,0
+56,Noite,PIX,iPhone,Miami,0
+2277,Madrugada,PIX,Android,Rio de Janeiro,0
+1146,Tarde,PIX,Android,São Paulo,0
+2526,Manhã,Crédito,PC,São Paulo,0
+2044,Tarde,Débito,Android,Miami,0
+1322,Manhã,Débito,iPhone,São Paulo,0
+2413,Manhã,Crédito,Android,Rio de Janeiro,0
+1719,Tarde,Débito,Android,São Paulo,0
+2442,Noite,Boleto,Android,São Paulo,0
+330,Manhã,Transferência,Android,Rio de Janeiro,0
+375,Madrugada,Débito,Caixa Eletrônico,Nova York,1
+1891,Noite,Débito,Android,São Paulo,0
+759,Noite,PIX,Android,São Paulo,0
+2986,Noite,Débito,Android,São Paulo,0
+2494,Manhã,PIX,Android,Rio de Janeiro,0
+2986,Manhã,Crédito,iPhone,Rio de Janeiro,0
+1282,Tarde,Débito,PC,Belo Horizonte,0
+1703,Tarde,Transferência,Android,São Paulo,0
+6411,Noite,Transferência,Android,Rio de Janeiro,0
+1034,Manhã,PIX,iPhone,São Paulo,0
+1133,Manhã,Crédito,iPhone,São Paulo,0
+1858,Manhã,Crédito,iPhone,Rio de Janeiro,0
+519,Noite,Débito,iPhone,Belo Horizonte,0
+1361,Madrugada,Débito,Android,Miami,0
+1331,Tarde,Débito,Android,Lisboa,0
+1562,Noite,PIX,Caixa Eletrônico,São Paulo,0
+1339,Manhã,Crédito,iPhone,São Paulo,0
+553,Noite,Débito,Android,São Paulo,0
+2105,Noite,PIX,iPhone,São Paulo,0
+1683,Tarde,PIX,Android,São Paulo,0
+8086,Noite,Transferência,Android,Miami,0
+2223,Tarde,PIX,PC,São Paulo,0
+1265,Manhã,Débito,iPhone,São Paulo,0
+2006,Tarde,PIX,iPhone,Belo Horizonte,0
+1375,Manhã,Débito,iPhone,Rio de Janeiro,0
+2357,Manhã,PIX,iPhone,São Paulo,0
+14480,Manhã,PIX,iPhone,São Paulo,0
+11663,Tarde,Crédito,iPhone,São Paulo,0
+1091,Tarde,Débito,iPhone,Rio de Janeiro,0
+2431,Noite,Débito,Android,São Paulo,0
+212,Manhã,PIX,PC,Nova York,0
+2692,Madrugada,PIX,Android,Miami,0
+905,Tarde,PIX,PC,Belo Horizonte,0
+295,Noite,Boleto,Android,Rio de Janeiro,0
+2504,Manhã,Crédito,iPhone,São Paulo,0
+2431,Tarde,Boleto,Android,Belo Horizonte,0
+4646,Noite,PIX,Android,São Paulo,0
+1915,Noite,Débito,Android,São Paulo,0
+9051,Manhã,PIX,Android,São Paulo,0
+325,Noite,PIX,Android,Miami,0
+2423,Tarde,PIX,iPhone,São Paulo,0
+2005,Madrugada,Transferência,Android,São Paulo,0
+2036,Madrugada,Crédito,iPhone,Lisboa,0
+1602,Noite,PIX,Android,São Paulo,0
+2335,Tarde,Crédito,iPhone,Rio de Janeiro,0
+13417,Manhã,PIX,PC,Lisboa,0
+195,Manhã,Débito,iPhone,São Paulo,0
+2938,Madrugada,Crédito,iPhone,São Paulo,0
+9277,Manhã,Débito,iPhone,São Paulo,0
+4569,Manhã,Transferência,Caixa Eletrônico,São Paulo,0
+14065,Noite,Boleto,PC,São Paulo,0
+1982,Noite,Débito,iPhone,São Paulo,0
+510,Noite,PIX,PC,São Paulo,0
+552,Noite,PIX,Android,Belo Horizonte,0
+2754,Noite,Crédito,Caixa Eletrônico,São Paulo,0
+298,Tarde,Boleto,iPhone,São Paulo,0
+583,Madrugada,PIX,iPhone,São Paulo,0
+1193,Manhã,PIX,Android,Rio de Janeiro,0
+14570,Noite,PIX,PC,São Paulo,0
+1388,Madrugada,Débito,Android,São Paulo,0
+13340,Manhã,Débito,Android,São Paulo,0
+13450,Noite,Boleto,iPhone,São Paulo,0
+12317,Tarde,PIX,PC,Nova York,0
+1494,Manhã,Débito,PC,Rio de Janeiro,0
+601,Manhã,PIX,PC,São Paulo,0
+2877,Tarde,Crédito,Android,Miami,0
+2338,Noite,Boleto,PC,Miami,0
+2947,Tarde,PIX,Android,Nova York,0
+1261,Noite,Crédito,iPhone,Belo Horizonte,0
+348,Manhã,Boleto,Caixa Eletrônico,São Paulo,0
+1025,Tarde,Boleto,Caixa Eletrônico,Miami,0
+855,Tarde,Crédito,PC,Rio de Janeiro,0
+845,Noite,Crédito,iPhone,Rio de Janeiro,0
+822,Manhã,Transferência,Caixa Eletrônico,Rio de Janeiro,0
+1745,Manhã,PIX,iPhone,São Paulo,0
+953,Madrugada,PIX,iPhone,São Paulo,0
+499,Noite,PIX,iPhone,Miami,0
+1598,Madrugada,Transferência,iPhone,Miami,0
+1340,Noite,Boleto,iPhone,São Paulo,0
+13183,Manhã,PIX,PC,São Paulo,0
+1332,Noite,PIX,Android,São Paulo,0
+541,Manhã,PIX,PC,São Paulo,0
+352,Madrugada,PIX,Android,Rio de Janeiro,0
+9832,Madrugada,PIX,Android,São Paulo,0
+540,Noite,Débito,Android,Belo Horizonte,0
+26,Noite,PIX,PC,São Paulo,0
+472,Noite,Débito,iPhone,São Paulo,0
+1599,Tarde,PIX,Android,Lisboa,0
+2242,Manhã,PIX,PC,São Paulo,0
+2469,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+439,Tarde,PIX,Android,São Paulo,0
+2325,Madrugada,Débito,iPhone,Rio de Janeiro,0
+2707,Madrugada,Débito,Android,Rio de Janeiro,0
+1163,Madrugada,Débito,Android,São Paulo,0
+2423,Madrugada,Débito,PC,São Paulo,0
+139,Manhã,Débito,iPhone,Rio de Janeiro,0
+1727,Manhã,Débito,PC,São Paulo,0
+2046,Manhã,Crédito,PC,Rio de Janeiro,0
+13761,Noite,Débito,Caixa Eletrônico,São Paulo,0
+1485,Manhã,Transferência,Caixa Eletrônico,São Paulo,0
+2659,Tarde,Crédito,Android,Nova York,0
+753,Noite,Boleto,Caixa Eletrônico,São Paulo,0
+851,Tarde,Débito,iPhone,São Paulo,0
+1793,Manhã,PIX,Android,São Paulo,0
+1150,Tarde,Débito,PC,Belo Horizonte,0
+828,Manhã,Débito,iPhone,São Paulo,0
+2764,Tarde,PIX,Android,São Paulo,0
+1541,Madrugada,PIX,iPhone,Rio de Janeiro,0
+819,Tarde,PIX,Android,São Paulo,0
+2543,Madrugada,PIX,Android,São Paulo,0
+1981,Noite,Transferência,PC,Lisboa,0
+382,Manhã,PIX,PC,Lisboa,0
+2180,Tarde,Crédito,iPhone,Nova York,0
+4940,Tarde,Débito,iPhone,São Paulo,0
+2189,Noite,PIX,Caixa Eletrônico,São Paulo,0
+800,Tarde,PIX,iPhone,São Paulo,0
+8454,Manhã,Débito,PC,São Paulo,0
+575,Manhã,PIX,Android,São Paulo,0
+369,Madrugada,Transferência,Android,Lisboa,0
+1710,Tarde,PIX,Android,Rio de Janeiro,0
+134,Manhã,PIX,Android,Lisboa,0
+1963,Manhã,Débito,iPhone,Nova York,0
+2071,Noite,PIX,Caixa Eletrônico,Rio de Janeiro,0
+2932,Manhã,Débito,iPhone,Belo Horizonte,0
+154,Noite,Boleto,Android,?,0
+2056,Manhã,Débito,Android,Rio de Janeiro,0
+3003,Noite,PIX,Android,Belo Horizonte,0
+839,Tarde,Crédito,Android,Lisboa,0
+1949,Noite,Crédito,PC,São Paulo,0
+1884,Madrugada,Débito,iPhone,Rio de Janeiro,0
+2151,Noite,PIX,Android,Belo Horizonte,0
+2746,Noite,PIX,iPhone,São Paulo,0
+1856,Manhã,Débito,iPhone,Lisboa,0
+2486,Madrugada,PIX,PC,Rio de Janeiro,0
+23,Manhã,Boleto,Android,São Paulo,0
+470,Tarde,Débito,Android,São Paulo,0
+2172,Manhã,Crédito,iPhone,São Paulo,0
+504,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+550,Manhã,Débito,Caixa Eletrônico,São Paulo,0
+2997,Noite,Débito,iPhone,Lisboa,0
+686,Madrugada,Transferência,Android,São Paulo,0
+2942,Tarde,PIX,PC,Rio de Janeiro,0
+1375,Manhã,PIX,PC,Lisboa,0
+1957,Manhã,Crédito,PC,Belo Horizonte,0
+2277,Madrugada,Débito,Caixa Eletrônico,Nova York,1
+8993,Manhã,PIX,Android,Belo Horizonte,0
+858,Tarde,Transferência,Android,São Paulo,0
+268,Tarde,Débito,Android,Lisboa,0
+991,Tarde,PIX,Android,?,0
+941,Madrugada,PIX,PC,São Paulo,0
+2759,Tarde,Boleto,Android,Rio de Janeiro,0
+2817,Tarde,Débito,Android,Nova York,0
+1560,Noite,Débito,iPhone,São Paulo,0
+1431,Manhã,Crédito,iPhone,São Paulo,0
+1337,Manhã,Transferência,PC,Belo Horizonte,0
+1437,Manhã,Transferência,Android,Belo Horizonte,0
+1779,Tarde,PIX,PC,Rio de Janeiro,0
+992,Noite,PIX,Android,São Paulo,0
+1986,Manhã,Débito,iPhone,São Paulo,0
+2001,Tarde,Débito,Caixa Eletrônico,Belo Horizonte,0
+1215,Tarde,Crédito,iPhone,Belo Horizonte,0
+1762,Tarde,Transferência,Android,São Paulo,0
+1825,Noite,PIX,Caixa Eletrônico,São Paulo,0
+348,Noite,Crédito,PC,São Paulo,0
+2350,Tarde,Boleto,Caixa Eletrônico,São Paulo,0
+2191,Manhã,PIX,PC,Belo Horizonte,0
+2320,Manhã,PIX,PC,Miami,0
+2983,Manhã,PIX,iPhone,São Paulo,0
+2747,Tarde,PIX,iPhone,Lisboa,0
+13054,Noite,PIX,Android,São Paulo,0
+9948,Tarde,PIX,Caixa Eletrônico,Rio de Janeiro,0
+173,Tarde,Débito,Android,São Paulo,0
+2401,Manhã,PIX,Android,São Paulo,0
+3867,Noite,PIX,Android,Miami,0
+195,Noite,Débito,Android,São Paulo,0
+115,Manhã,Crédito,Android,Rio de Janeiro,0
+481,Tarde,Débito,Android,São Paulo,0
+1203,Noite,PIX,iPhone,São Paulo,0
+101,Noite,PIX,Android,São Paulo,0
+325,Manhã,PIX,PC,São Paulo,0
+88,Manhã,Débito,iPhone,Belo Horizonte,0
+1523,Tarde,Débito,Android,São Paulo,0
+9673,Manhã,PIX,Android,Rio de Janeiro,0
+1509,Madrugada,PIX,PC,São Paulo,0
+2827,Tarde,Crédito,iPhone,São Paulo,0
+1871,Tarde,PIX,Android,Rio de Janeiro,0
+818,Tarde,PIX,PC,Rio de Janeiro,0
+666,Tarde,Crédito,PC,São Paulo,0
+2556,Tarde,Débito,Android,São Paulo,0
+425,Tarde,Boleto,Android,São Paulo,0
+859,Madrugada,PIX,Android,Rio de Janeiro,0
+4287,Madrugada,PIX,Caixa Eletrônico,Rio de Janeiro,0
+2773,Tarde,Transferência,Android,São Paulo,0
+2430,Tarde,PIX,iPhone,São Paulo,0
+2242,Madrugada,Crédito,iPhone,Rio de Janeiro,0
+971,Tarde,Débito,Caixa Eletrônico,Belo Horizonte,0
+1686,Tarde,Transferência,Android,São Paulo,0
+1832,Tarde,PIX,Android,São Paulo,0
+525,Madrugada,Boleto,iPhone,São Paulo,0
+4357,Manhã,Débito,Android,Miami,0
+311,Manhã,Crédito,Android,São Paulo,0
+1995,Tarde,Crédito,PC,São Paulo,0
+215,Tarde,PIX,PC,São Paulo,0
+2646,Tarde,Débito,Android,Rio de Janeiro,0
+14158,Manhã,Débito,PC,São Paulo,0
+153,Noite,PIX,Android,Lisboa,0
+84,Tarde,Crédito,iPhone,Rio de Janeiro,0
+720,Noite,Débito,Android,Rio de Janeiro,0
+1762,Tarde,Débito,Android,Rio de Janeiro,0
+8311,Noite,PIX,Android,Miami,0
+470,Noite,PIX,iPhone,Miami,0
+1550,Noite,PIX,iPhone,Rio de Janeiro,0
+105,Manhã,Débito,Android,Rio de Janeiro,0
+808,Noite,PIX,Android,Rio de Janeiro,0
+12353,Tarde,Débito,Android,Miami,0
+50,Manhã,Débito,PC,São Paulo,0
+895,Noite,Débito,Android,Nova York,0
+1206,Noite,PIX,Android,Rio de Janeiro,0
+2430,Noite,Débito,iPhone,Belo Horizonte,0
+10963,Manhã,Crédito,Android,Rio de Janeiro,0
+863,Madrugada,Boleto,Android,Nova York,0
+6465,Tarde,Débito,Android,São Paulo,0
+80,Manhã,Transferência,iPhone,Lisboa,0
+12021,Noite,PIX,Android,Rio de Janeiro,0
+792,Noite,Boleto,PC,Belo Horizonte,0
+2993,Noite,PIX,Android,Rio de Janeiro,0
+1867,Noite,Crédito,PC,Belo Horizonte,0
+2856,Manhã,Débito,Android,São Paulo,0
+5774,Manhã,Transferência,Android,São Paulo,0
+1283,Manhã,PIX,PC,São Paulo,0
+2037,Manhã,Débito,Android,Nova York,0
+690,Manhã,Transferência,Android,São Paulo,0
+1570,Noite,Crédito,iPhone,Rio de Janeiro,0
+2666,Noite,Crédito,iPhone,São Paulo,0
+185,Noite,Débito,iPhone,São Paulo,0
+2605,Tarde,Boleto,Android,Rio de Janeiro,0
+2766,Manhã,PIX,Android,São Paulo,0
+1163,Madrugada,Boleto,Android,Belo Horizonte,0
+1687,Tarde,Débito,Android,São Paulo,0
+2343,Tarde,PIX,Android,São Paulo,0
+2675,Noite,Crédito,PC,São Paulo,0
+1267,Noite,Transferência,Android,Rio de Janeiro,0
+102,Tarde,PIX,PC,São Paulo,0
+2953,Noite,Boleto,Android,São Paulo,0
+2559,Tarde,Crédito,iPhone,São Paulo,0
+2285,Madrugada,Débito,Android,Lisboa,0
+13111,Tarde,Crédito,Caixa Eletrônico,Rio de Janeiro,0
+81,Noite,PIX,iPhone,São Paulo,0
+718,Manhã,Crédito,iPhone,Lisboa,0
+4747,Manhã,Débito,Android,Rio de Janeiro,0
+1235,Manhã,Crédito,Android,São Paulo,0
+2855,Tarde,Débito,iPhone,Rio de Janeiro,0
+2894,Manhã,Débito,PC,São Paulo,0
+2886,Noite,Crédito,iPhone,São Paulo,0
+93,Noite,PIX,Caixa Eletrônico,São Paulo,0
+957,Tarde,PIX,Android,Belo Horizonte,0
+2635,Manhã,PIX,iPhone,Rio de Janeiro,0
+1110,Noite,PIX,PC,Miami,0
+2264,Noite,Crédito,iPhone,São Paulo,0
+2832,Tarde,Débito,Android,Nova York,0
+2005,Manhã,Débito,iPhone,São Paulo,0
+3745,Noite,Crédito,Android,Miami,0
+1046,Tarde,Crédito,Caixa Eletrônico,Rio de Janeiro,0
+2793,Tarde,PIX,PC,Lisboa,0
+14238,Manhã,PIX,PC,Belo Horizonte,0
+690,Madrugada,PIX,iPhone,Rio de Janeiro,0
+107,Noite,PIX,PC,São Paulo,0
+1420,Noite,Crédito,PC,Rio de Janeiro,0
+14617,Manhã,Crédito,iPhone,Rio de Janeiro,0
+2655,Tarde,Débito,Android,São Paulo,0
+1999,Noite,Crédito,PC,Miami,0
+751,Tarde,PIX,iPhone,São Paulo,0
+2854,Noite,Débito,PC,São Paulo,0
+481,Tarde,PIX,Android,São Paulo,0
+761,Noite,Débito,Caixa Eletrônico,São Paulo,0
+11047,Tarde,Boleto,Android,Rio de Janeiro,0
+1549,Manhã,PIX,Caixa Eletrônico,São Paulo,0
+1896,Manhã,PIX,Android,São Paulo,0
+919,Tarde,PIX,Android,Belo Horizonte,0
+2965,Madrugada,Boleto,Android,Belo Horizonte,0
+2109,Madrugada,Crédito,Android,Belo Horizonte,0
+307,Noite,Crédito,Android,São Paulo,0
+10113,Manhã,Boleto,iPhone,São Paulo,0
+2139,Manhã,Débito,Android,Rio de Janeiro,0
+336,Manhã,PIX,PC,Nova York,0
+265,Noite,PIX,iPhone,Nova York,0
+2888,Manhã,Boleto,Android,Miami,0
+1023,Madrugada,Crédito,Android,São Paulo,0
+1748,Manhã,PIX,Android,São Paulo,0
+249,Noite,Boleto,Android,Lisboa,0
+1809,Noite,Débito,Caixa Eletrônico,São Paulo,0
+1416,Madrugada,PIX,PC,São Paulo,0
+8860,Noite,Débito,Caixa Eletrônico,Miami,0
+7247,Manhã,Débito,Android,São Paulo,0
+2766,Manhã,Débito,Android,São Paulo,0
+1411,Noite,Débito,Android,São Paulo,0
+8906,Tarde,PIX,Android,São Paulo,0
+1610,Manhã,PIX,Android,Nova York,0
+2916,Madrugada,Débito,iPhone,Miami,0
+646,Noite,PIX,Android,Rio de Janeiro,0
+3487,Tarde,Débito,PC,Rio de Janeiro,0
+960,Noite,Débito,Caixa Eletrônico,Nova York,0
+347,Tarde,Transferência,Android,Rio de Janeiro,0
+1705,Manhã,Boleto,iPhone,Belo Horizonte,0
+263,Madrugada,PIX,Caixa Eletrônico,Belo Horizonte,0
+1381,Noite,PIX,Android,São Paulo,0
+1152,Madrugada,Débito,iPhone,Belo Horizonte,0
+2070,Manhã,Crédito,Android,Belo Horizonte,0
+256,Noite,PIX,iPhone,Belo Horizonte,0
+1912,Noite,PIX,Caixa Eletrônico,São Paulo,0
+2790,Tarde,Débito,PC,Rio de Janeiro,0
+1632,Manhã,Transferência,Android,Miami,0
+1685,Manhã,Débito,iPhone,Rio de Janeiro,0
+11697,Noite,PIX,PC,Nova York,0
+2483,Madrugada,Crédito,iPhone,Belo Horizonte,0
+1051,Noite,PIX,Android,Rio de Janeiro,0
+2034,Tarde,Crédito,Android,Lisboa,0
+7423,Tarde,Crédito,PC,Lisboa,0
+540,Tarde,Débito,iPhone,Belo Horizonte,0
+2586,Manhã,PIX,iPhone,São Paulo,0
+1119,Noite,Crédito,Android,São Paulo,0
+2285,Manhã,Boleto,Caixa Eletrônico,Miami,0
+792,Noite,PIX,iPhone,São Paulo,0
+2577,Noite,Débito,Caixa Eletrônico,Rio de Janeiro,0
+225,Manhã,Débito,PC,São Paulo,0
+1838,Tarde,PIX,Android,São Paulo,0
+14999,Madrugada,PIX,Android,Rio de Janeiro,0
+1910,Noite,PIX,Android,São Paulo,0
+2238,Noite,Transferência,iPhone,São Paulo,0
+7432,Noite,Débito,iPhone,Nova York,0
+1277,Manhã,Transferência,Android,Rio de Janeiro,0
+1701,Noite,Transferência,iPhone,São Paulo,0
+1883,Madrugada,Débito,iPhone,Belo Horizonte,0
+113,Noite,Débito,Android,Rio de Janeiro,0
+1261,Madrugada,Crédito,iPhone,São Paulo,0
+2805,Noite,PIX,iPhone,São Paulo,0
+1959,Madrugada,PIX,iPhone,Rio de Janeiro,0
+1064,Manhã,Transferência,PC,São Paulo,0
+2111,Noite,Boleto,iPhone,Rio de Janeiro,0
+780,Madrugada,PIX,Caixa Eletrônico,São Paulo,0
+824,Noite,Transferência,Android,Miami,0
+860,Madrugada,Débito,iPhone,Rio de Janeiro,0
+2078,Tarde,Débito,Caixa Eletrônico,?,0
+474,Madrugada,PIX,Android,São Paulo,0
+2835,Tarde,PIX,Android,São Paulo,0
+1913,Tarde,Transferência,PC,Nova York,0
+2034,Manhã,Crédito,iPhone,Miami,0
+757,Manhã,PIX,Caixa Eletrônico,Rio de Janeiro,0
+602,Madrugada,PIX,PC,São Paulo,0
+628,Noite,Débito,Android,São Paulo,0
+2863,Noite,Crédito,PC,São Paulo,0
+1553,Manhã,Débito,iPhone,São Paulo,0
+562,Manhã,PIX,Android,Belo Horizonte,0
+2905,Manhã,PIX,PC,Miami,0
+1560,Tarde,PIX,Caixa Eletrônico,Belo Horizonte,0
+2951,Tarde,Débito,iPhone,Belo Horizonte,0
+809,Manhã,Débito,Caixa Eletrônico,Rio de Janeiro,0
+2506,Tarde,Boleto,PC,Rio de Janeiro,0
+2483,Noite,PIX,Android,Rio de Janeiro,0
+1447,Tarde,Boleto,iPhone,Rio de Janeiro,0
+1427,Tarde,Transferência,Android,São Paulo,0
+590,Tarde,PIX,Android,São Paulo,0
+614,Tarde,PIX,iPhone,Rio de Janeiro,0
+8906,Noite,PIX,Android,São Paulo,0
+326,Tarde,Boleto,iPhone,Nova York,0
+1754,Tarde,Crédito,Android,Rio de Janeiro,0
+26,Tarde,Débito,PC,Rio de Janeiro,0
+263,Noite,Débito,Android,Rio de Janeiro,0
+163,Manhã,Débito,Android,Lisboa,0
+154,Noite,Débito,Caixa Eletrônico,São Paulo,0
+1719,Tarde,PIX,iPhone,São Paulo,0
+429,Manhã,Crédito,PC,Miami,0
+1808,Tarde,PIX,iPhone,Nova York,0
+822,Manhã,Débito,PC,São Paulo,0
+6102,Madrugada,PIX,Android,São Paulo,0
+1959,Tarde,Crédito,iPhone,Belo Horizonte,0
+946,Tarde,Débito,Android,Belo Horizonte,0
+8809,Madrugada,Débito,Android,São Paulo,0
+772,Noite,Débito,PC,São Paulo,0
+830,Noite,Débito,Android,Belo Horizonte,0
+1771,Manhã,Boleto,Android,São Paulo,0
+2763,Madrugada,PIX,iPhone,São Paulo,0
+2514,Tarde,PIX,Android,São Paulo,0
+1658,Manhã,PIX,Caixa Eletrônico,Belo Horizonte,0
+2471,Tarde,Débito,PC,São Paulo,0
+2543,Manhã,PIX,Android,São Paulo,0
+1763,Noite,PIX,Caixa Eletrônico,Miami,0
+766,Manhã,Transferência,Android,São Paulo,0
+7783,Madrugada,PIX,PC,Belo Horizonte,0
+3278,Manhã,PIX,Android,Nova York,0
+1745,Noite,Débito,Android,Rio de Janeiro,0
+1033,Tarde,Débito,Caixa Eletrônico,Rio de Janeiro,0
+8676,Noite,Crédito,Caixa Eletrônico,São Paulo,0
+640,Tarde,PIX,Android,Rio de Janeiro,0
+2409,Tarde,PIX,Android,São Paulo,0
+1796,Tarde,PIX,PC,Rio de Janeiro,0
+1427,Manhã,Crédito,PC,Nova York,0
+4216,Manhã,Crédito,Android,Rio de Janeiro,0
+2015,Noite,Boleto,iPhone,São Paulo,0
+82,Tarde,Crédito,iPhone,Miami,0
+1994,Noite,PIX,Android,São Paulo,0
+2219,Manhã,Crédito,iPhone,Nova York,0
+970,Tarde,PIX,iPhone,Rio de Janeiro,0
+47,Madrugada,Crédito,Android,Rio de Janeiro,0
+474,Noite,PIX,iPhone,São Paulo,0
+13388,Manhã,PIX,iPhone,Rio de Janeiro,0
+1373,Noite,PIX,Android,Nova York,0
+2420,Tarde,Débito,Android,Rio de Janeiro,0
+9193,Noite,PIX,Android,São Paulo,0
+1645,Tarde,Débito,Android,Belo Horizonte,0
+12736,Tarde,Débito,Android,Rio de Janeiro,0
+978,Tarde,Boleto,Android,São Paulo,0
+2591,Manhã,Boleto,Android,Nova York,0
+609,Madrugada,Transferência,PC,Miami,0
+1338,Manhã,Débito,Android,Nova York,0
+2092,Tarde,PIX,Android,São Paulo,0
+2354,Noite,PIX,PC,Belo Horizonte,0
+2210,Manhã,Crédito,PC,Rio de Janeiro,0
+7857,Madrugada,Transferência,iPhone,São Paulo,0
+428,Tarde,Transferência,Caixa Eletrônico,Rio de Janeiro,0
+355,Noite,Débito,iPhone,Rio de Janeiro,0
+425,Madrugada,PIX,iPhone,Rio de Janeiro,0
+2815,Tarde,PIX,iPhone,Belo Horizonte,0
+30,Noite,PIX,iPhone,São Paulo,0
+155,Noite,PIX,Caixa Eletrônico,São Paulo,0
+1355,Manhã,Boleto,iPhone,São Paulo,0
+12398,Tarde,Débito,iPhone,São Paulo,0
+221,Madrugada,Boleto,iPhone,Belo Horizonte,0
+12585,Noite,Débito,PC,Rio de Janeiro,0
+12383,Madrugada,Débito,iPhone,Nova York,1
+2530,Tarde,Transferência,PC,Rio de Janeiro,0
+548,Tarde,Crédito,PC,Rio de Janeiro,0
+8655,Manhã,Boleto,Android,São Paulo,0
+269,Noite,PIX,PC,São Paulo,0
+2503,Madrugada,PIX,Android,Belo Horizonte,0
+2402,Madrugada,Débito,iPhone,São Paulo,0
+651,Tarde,Débito,Android,São Paulo,0
+11488,Manhã,PIX,Android,Lisboa,0
+1745,Noite,Crédito,Android,Belo Horizonte,0
+2310,Tarde,Débito,iPhone,São Paulo,0
+333,Noite,PIX,Caixa Eletrônico,São Paulo,0
+4140,Tarde,Transferência,iPhone,São Paulo,0
+2944,Manhã,Débito,iPhone,São Paulo,0
+2423,Tarde,Transferência,Android,Rio de Janeiro,0
+1835,Manhã,Débito,Android,Miami,0
+1043,Noite,PIX,Android,Nova York,0
+1660,Noite,Crédito,Android,São Paulo,0
+2690,Madrugada,Boleto,Caixa Eletrônico,Belo Horizonte,0
+813,Madrugada,Débito,PC,São Paulo,0
+1050,Manhã,Débito,Android,São Paulo,0
+67,Noite,PIX,PC,São Paulo,0
+826,Noite,PIX,Android,São Paulo,0
