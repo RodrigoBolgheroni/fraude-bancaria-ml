@@ -1,7 +1,6 @@
 import random
 import pandas as pd
-
-
+import os
 
 def gerar_dados(t):
     valores_baixos = [random.randint(10, 3000) for _ in range(int(t * 0.85))]
@@ -57,10 +56,13 @@ def gerar_dados(t):
     return dados
 
 
-def transformar_em_csv(caminho,t):
+def transformar_em_csv(caminho, t):
+    pasta = os.path.dirname(caminho)
+    if not os.path.exists(pasta):
+        os.makedirs(pasta)
     dados = gerar_dados(t)
     df = pd.DataFrame(dados)
-    df.to_csv(caminho,index=False)
+    df.to_csv(caminho, index=False)
 
 
 
