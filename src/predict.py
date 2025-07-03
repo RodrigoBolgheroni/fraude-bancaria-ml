@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 
 # Carregando modelo, scaler e colunas salvos no treino
-modelo = joblib.load("../modelo.pkl")
-scaler = joblib.load("../scaler.pkl")
-colunas = joblib.load("../colunas.pkl")  # lista com os nomes das colunas no treino
+modelo = joblib.load("modelo.pkl")
+scaler = joblib.load("scaler.pkl")
+colunas = joblib.load("colunas.pkl")  # lista com os nomes das colunas no treino
 
 # Configura os argumentos do terminal
 parser = argparse.ArgumentParser()
